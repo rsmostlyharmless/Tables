@@ -1,6 +1,10 @@
 html {
     font-family: sans-serif;
   }
+
+  h1 {
+      text-align: center;
+  }
   
   table {
     border-collapse: collapse;
@@ -32,4 +36,21 @@ html {
   
   caption {
     padding: 10px;
+  }
+
+  #name {
+      border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+  }
+
+  #planets {
+      border-left: 2px solid black;
+      border-right: 2px solid black;
+  }
+
+  #pluto {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
   }
